@@ -1,2 +1,7 @@
-# KotlinActor
-simple kotlin Actor interface based on coroutine
+# Kotlin Actor interface
+Simple Actor interface based on kotlin's coroutine
+
+# How to build and run
+$ gradle build
+
+$ gradle run
